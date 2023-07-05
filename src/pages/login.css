@@ -1,0 +1,88 @@
+body {
+    background-color: steelblue;
+}
+
+.login-container {
+    background-color: white;
+    padding: 20px;
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 5px;
+    color: white;
+    height: 480px;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+    margin-bottom: 20px;
+}
+
+label {
+    margin-left: 10px;
+    color: black;
+}
+
+form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 3px;
+}
+
+button {
+    background-color: white;
+    color: blue;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+.myCheckbox {
+    margin-left: -180px;
+}
+
+.checkbox-label {
+    margin-left: -190px;
+}
+
+.input1 {
+    height: 30px;
+}
+
+.btn {
+    text-align: center;
+    margin-top: 70px;
+    display: flex;
+    background-color: steelblue;
+    color: white;
+    width: 400px;
+}
+
+h3 {
+    margin-left: 130px;
+}
+
+.p1 {
+    color: black;
+    text-align: center;
+}
+
+a {
+    color: blue;
+    text-decoration: underline;
+}
+
+a:hover {
+    color: red;
+    text-decoration: none;
+}
+
+
+.p2 {
+    color: black;
+    text-align: center;
+}
